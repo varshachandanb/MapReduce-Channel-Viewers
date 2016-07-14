@@ -1,5 +1,6 @@
 # MapReduce-Channel-Viewers
 MapReduce-Channel-Viewers
+
 input1.txt consist of <TV show, count> (A TV show title and the number of viewers)
 
 input2.txt consists of <TV show title, channel> (A TV show title and the channel it was on)
